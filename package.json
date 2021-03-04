@@ -8,9 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "next": "10.0.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-hook-form": "^6.15.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.4",
